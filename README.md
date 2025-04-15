@@ -1,7 +1,7 @@
 # Data Engineering Project
 
 
-In this AWS Data Engineering project, we delve into the intricacies of building a robust real-time data pipeline using DynamoDB, Snowflake, and AWS Lambda. The content unfolds as a captivating narrative, showcasing hands-on demonstrations, step-by-step tutorials, and expert insights.
+In this AWS Data Engineering project, we delve into the intricacies of building a robust real-time data pipeline using DynamoDB, Snowflake, and AWS Lambda.
 
 1. **Introduction to DynamoDB and Snowflake Integration:**
    Explore the fundamentals of DynamoDB and Snowflake, understanding their unique strengths and how they seamlessly integrate to form a powerful data ecosystem.
